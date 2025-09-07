@@ -11,7 +11,8 @@
 You must be running Among Us from Steam and be logged into your account.
 
 ## Compilation
-Run compile.bat
+Run compile.bat  
+[**compile.bat**](https://raw.githubusercontent.com/rooootdev/amongunlock/refs/heads/main/compile.bat)
 
 or
 
