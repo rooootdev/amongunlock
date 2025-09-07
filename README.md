@@ -10,6 +10,15 @@
 ## Requirements:
 You must be running Among Us from Steam and be logged into your account.
 
+## Compilation
+Run compile.bat
+
+or
+
+```batch
+g++ -std=c++17 -O2 -Wall "%~dp0amongunlock.cpp" "%~dp0resources\icon.o" -o "%~dp0amongunlock.exe" -luser32 -lkernel32 -lpsapi
+```
+
 ## Installation:
 Run this in PowerShell:
 
