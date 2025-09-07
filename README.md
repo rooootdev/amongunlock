@@ -1,4 +1,4 @@
-# ![icon](icon.png) amongunlock
+# <img src="icon.png" alt="icon" width="26" height="26"> amongunlock
 
 *(Temporarily)* Unlock every Among Us cosmetic.
 
@@ -15,3 +15,8 @@ Run this in PowerShell:
 
 ```pwsh
 iex(iwr https://roooot.dev/soft/amongunlock/install)
+```
+or
+
+Run the installer:  
+[**download installer**](https://github.com/rooootdev/amongunlock/releases)
